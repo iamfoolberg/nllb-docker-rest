@@ -1,5 +1,5 @@
 from typing import Dict
-from stopes_snippet.ssplit_stopes import get_split_algo
+from stopes_snippet.sentence_split import get_split_algo
 from sacremoses import MosesPunctNormalizer
 import re
 import xxhash
